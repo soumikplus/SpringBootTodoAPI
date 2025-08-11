@@ -1,4 +1,4 @@
-package com.example.TodoSpringAPI;
+package com.example.SpringTodoAPI;
 
 public class Todo{
 	private int id;
